@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Gate
+/Gate/Gate/bin/Debug/netstandard2.0
+/Gate/Gate.iOS/obj
+/Gate/Gate/obj/Debug/netstandard2.0
+/Gate/Gate/obj
+/Gate/Gate.Android/bin/Debug
+/Gate/Gate.Android/obj/Debug/90

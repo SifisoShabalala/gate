@@ -19,7 +19,7 @@ namespace Gate.Views
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            Launcher.OpenAsync("tel:*140*0607867995#");
+            Launcher.OpenAsync("tel:*140*number here#");
         }
     }
 }
